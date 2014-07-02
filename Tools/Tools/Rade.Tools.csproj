@@ -8,8 +8,8 @@
     <ProjectGuid>{559256A3-FD00-4190-9741-FA3C3FF9033A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>RADE.Tools</RootNamespace>
-    <AssemblyName>RADE.Tools</AssemblyName>
+    <RootNamespace>Rade.Tools</RootNamespace>
+    <AssemblyName>Rade.Tools</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
