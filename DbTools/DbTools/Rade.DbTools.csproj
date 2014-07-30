@@ -46,19 +46,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DbData.cs" />
-    <Compile Include="intf\IConnection.cs" />
-    <Compile Include="intf\IQuery.cs" />
-    <Compile Include="intf\ITransaction.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="DbQuery.cs" />
-    <Compile Include="rdb\RdbConnection.cs" />
-    <Compile Include="rdb\RdbData.cs" />
-    <Compile Include="rdb\RdbQuery.cs" />
-    <Compile Include="sql\SqlData.cs" />
-    <Compile Include="sql\SqlMetadata.cs" />
-    <Compile Include="sql\SqlParser.cs" />
-    <Compile Include="sql\SqlQuery.cs" />
-    <Compile Include="sql\SqlScripter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
